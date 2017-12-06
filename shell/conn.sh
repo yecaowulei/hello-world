@@ -1,5 +1,4 @@
 #!/bin/bash
-#test
 Enter()
 {
 echo
